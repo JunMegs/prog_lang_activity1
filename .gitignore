@@ -2,11 +2,13 @@
 
 Data/*
 
+
 activity1.c
 activity1.o
 
-./Activity/prog_lang_activity_1.exe
-./Activity/prog_lang_activity_1.ilk
-./Activity/prog_lang_activity_1.obj
-./Activity/prog_lang_activity_1.pdb
-./Activity/vc140.pdb
+Activity/crawl_analys.c
+Activity/prog_lang_activity_1.exe
+Activity/prog_lang_activity_1.ilk
+Activity/prog_lang_activity_1.obj
+Activity/prog_lang_activity_1.pdb
+Activity/vc140.pdb

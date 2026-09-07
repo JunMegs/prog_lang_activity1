@@ -2,6 +2,9 @@
 
 Data/*
 
+activity1.c
+activity1.o
+
 ./Activity/prog_lang_activity_1.exe
 ./Activity/prog_lang_activity_1.ilk
 ./Activity/prog_lang_activity_1.obj
